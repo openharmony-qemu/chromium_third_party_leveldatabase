@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "leveldb",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
+        "Version Number": "1b51a3a96821e5fd5175288724c95c1bde57b2f0",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/leveldb.git@1b51a3a96821e5fd5175288724c95c1bde57b2f0",
+        "Description": "第三方软件leveldatabase，一个持久化的 key/value 存储"
+    }
+]
